@@ -32,6 +32,8 @@ public abstract class Item
 
 public class EquipmentItem : Item
 {
+    public int AttackPower { get; protected set; }
+
     public EquipmentItem(EquipmentItemData data) : base(data)
     {
         
