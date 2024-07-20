@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ConsumableItemData
   ID: 3
   Name: RedPotion
-  Desc: RedPotion Description
+  Desc: +50 HP
   Sprite: {fileID: -52472362, guid: d636e300c3f136849a21744b17b1827b, type: 3}
   MaxCount: 64

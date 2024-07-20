@@ -22,8 +22,9 @@ public class ItemTooltipViewer : MonoBehaviour
     }
     private RectTransform _cachedRectTransform;
 
-    public void SetItemInfo(ItemData itemData)
+    public void SetItemInfo(Item item)
     {
+        var itemData = item.Data;
         _itemName.text = itemData.Name;
         _ItemDesc.text = itemData.Desc;
         _itemImage.sprite = itemData.Sprite;

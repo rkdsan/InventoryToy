@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 4
   Name: WhitePotion
-  Desc: WhitePotion Description
+  Desc: +100 HP
   Sprite: {fileID: -1851139824, guid: d636e300c3f136849a21744b17b1827b, type: 3}
   MaxCount: 64

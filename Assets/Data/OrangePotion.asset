@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 2
   Name: OrangePotion
-  Desc: OrangePotion Description
+  Desc: +70 HP
   Sprite: {fileID: 1103351458, guid: d636e300c3f136849a21744b17b1827b, type: 3}
   MaxCount: 64

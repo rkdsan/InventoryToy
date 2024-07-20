@@ -76,7 +76,7 @@ public class InventoryViewer : MonoBehaviour, IItemSlotEventHandler
         if (itemSlot.ItemInfo == null)
             return;
 
-        tooltipViewer.SetItemInfo(itemSlot.ItemInfo.Data);
+        tooltipViewer.SetItemInfo(itemSlot.ItemInfo);
         tooltipViewer.SetPosition(itemSlot.SlotRectTransform);
         tooltipViewer.Show();
     }

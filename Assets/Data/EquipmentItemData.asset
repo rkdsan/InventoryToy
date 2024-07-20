@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   Name: Weapon
-  Desc: Weapon Description
+  Desc: Super Power
   Sprite: {fileID: -1931276433, guid: d636e300c3f136849a21744b17b1827b, type: 3}
